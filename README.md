@@ -10,4 +10,4 @@ Libraries - Pandas, Math
 Visualization Tools - Tableau and Power BI
 
 # Architecture Diagram
-
+![arch](https://github.com/karan-devdekar/Medication-errors/assets/78233470/35992b1b-eba2-40f0-b783-57b3a616d569)
