@@ -1,4 +1,5 @@
-# Medication-errors
+# Medication Errors And Effects
+End to End Data Engineering Project Using AWS, Tableau and PowerBI
 
 # Data Description
 This dataset talks about the medication error reports, submitted to the FDA, to support the post-marketing safety surveillance program for drug and therapeutic biologic products. The structure of the AERS database adheres to the international safety reporting guidance issued by the International Conference on Harmonisation (ICH E2B). Adverse events and medication errors are coded to terms in the Medical Dictionary for Regulatory Activities (MedDRA) terminology.
